@@ -24,3 +24,6 @@ pnpm-debug.log*
 .idea/
 
 TODO.md
+.vscode/
+.edgeone/
+package-lock.json
