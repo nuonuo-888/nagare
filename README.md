@@ -8,8 +8,6 @@ A modern personal portfolio website built with the [Astro](https://astro.build/)
 
 _A portfolio website template, featuring simplicity, beauty and clarity._
 
-**Live Demo:** [nagare.angine.tech](https://nagare.angine.tech)
-
 ## Deploy
 
 One-click deploy this starter to Tencent EdgeOne Pages (installs, builds, and serves `dist/` automatically).
